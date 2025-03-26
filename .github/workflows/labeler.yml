@@ -25,4 +25,4 @@ jobs:
     - name: "Apply labels"
       uses: actions/labeler@v4
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        repository: "Hartess/Trello_Project"
