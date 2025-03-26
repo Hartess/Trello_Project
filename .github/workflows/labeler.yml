@@ -25,4 +25,4 @@ jobs:
     - name: "Apply labels"
       uses: actions/labeler@v4
       with:
-        repository: "Hartess/Trello_Project"
+        configuration-path: "Hartess/Trello_Project"
